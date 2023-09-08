@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+label{
+    display: block;
+    padding-bottom: 2rem;
+    font-size: larger;
+}
+#output-box{
+    font-size: 2rem;
+}
